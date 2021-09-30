@@ -1,0 +1,247 @@
+
+/* responsive css part  */
+
+@media (max-width:992px) {
+    .secondimg {
+        margin-top: 86px;
+    }
+    .imgdiv img {
+        width: 115%;
+        margin-top: 65px;
+    }
+    .t-box-item {
+        
+        margin-bottom: 87px;
+    }
+    .lekhacontact h2 {
+        font-size: 35px;
+    }
+    .lekhacontact {
+        margin-top: -18px;
+    }
+    .lekha {
+        margin-top: 32px;
+    }
+    .pricing-item-one {
+      
+        margin-bottom: 36px;
+    }
+
+ }
+ @media (max-width:768px) {
+    .imgdiv {
+        height: 500px;
+        width: 401px;
+        margin: auto;
+    }
+    .lekha {
+        margin-top: 32px;
+    }
+    .pricing-heading h2 {
+        font-size: 33px;
+    }
+    .pricing-item-one {
+       
+        margin-bottom: 36px;
+    }
+ }
+
+
+ @media (max-width:576px) {
+    .counterlekha {
+        margin-bottom: 20px;
+    }
+    .number {
+        padding: 18px 29px;
+        font-size: 14px;
+    }
+    .name {
+        padding: 17px 41px;
+        font-size: 16px;
+    }
+    .imgdiv {
+        height: 500px;
+        width: 306px;
+        margin: auto;
+    }
+    .lekha {
+        margin-top: 32px;
+    }
+    .btunb {
+       
+        padding: 12px 26px;
+       
+        font-size: 14px;
+    }
+    .pricing-heading h2 {
+        font-size: 33px;
+    }
+    .pricing-item-one {
+       
+        margin-bottom: 36px;
+    }
+    .t-box-item {
+       
+        padding: 15px 7px;
+    }
+ }
+
+ @media (max-width:400px) {
+    .lekha {
+        margin-top: 32px;
+    }
+    .btunb {
+       
+        padding: 12px 26px;
+       
+        font-size: 14px;
+    }
+    .pricing-heading h2 {
+        font-size: 33px;
+    }
+    .pricing-item-one {
+       
+        margin-bottom: 36px;
+    }
+    .lekhadivone h2 {
+        font-size: 18px;
+    }
+    .lekhadivone h4 {
+        font-size: 18px;
+    }
+    .lekhadivone p {
+        font-size: 11px;
+    }
+    .sideimg img {
+        max-width: 67%;
+       
+        top: -50px;
+        left: 0px;
+    }
+    .booton {
+       
+        font-size: 10px;
+    }
+    .name {
+        padding: 8px 18px;
+        font-size: 18px;
+    }
+    .number {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+    .email {
+        padding: 9px 14px;
+        font-size: 16px;
+    }
+    .btunb {
+        padding: 9px 21px;
+        font-size: 9px;
+    }
+    .lekhacontact h2 {
+        font-size: 25px;
+    }
+    .button {
+       
+        font-size: 17px;
+        padding: 12px 14px;
+    }
+ }
+
+ @media (max-width:360px) {
+    .lekhadivone h2 {
+        font-size: 18px;
+    }
+    .lekhadivone h4 {
+        font-size: 18px;
+    }
+    .lekhadivone p {
+        font-size: 16px;
+    }
+    .booton {
+        font-size: 18px;
+    }
+    .sideimg img {
+       
+        left: -18px;
+    }
+    .name {
+        padding: 8px 18px;
+        font-size: 18px;
+    }
+    .number {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+    .email {
+        padding: 9px 14px;
+        font-size: 16px;
+    }
+    .btunb {
+        padding: 9px 21px;
+        font-size: 9px;
+    }
+    .lekhacontact h2 {
+        font-size: 25px;
+    }
+    .imgdiv img {
+        width: 102%;
+    }
+    .secondimg {
+        margin-top: -12px;
+    }
+ }
+
+ @media (max-width:334px) {
+    .lekhadivone h4 {
+        font-size: 20px;
+    }
+    .sideimg {
+        height: 130px;
+        width: 109px;
+    }
+    .lekhacontact h2 {
+        font-size: 21px;
+    }
+    .email {
+        padding: 9px 14px;
+        font-size: 16px;
+    }
+    .name {
+        padding: 8px 18px;
+        font-size: 18px;
+    }
+    .number {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+    .btunb {
+        padding: 9px 21px;
+        font-size: 18px;
+    }
+    .button {
+       
+        font-size: 17px;
+        padding: 12px 14px;
+    }
+    .imgdiv img {
+        width: 102%;
+    }
+    .secondimg {
+        margin-top: -12px;
+    }
+    .footer {
+       
+        padding: 21px;
+       
+        font-size: 16px;
+    }
+    .t-box-item {
+        margin-bottom: 87px;
+       
+    }
+    .lekhacontact p {
+        font-size: 20px;
+        margin-top: 55px;
+    }
+ }
